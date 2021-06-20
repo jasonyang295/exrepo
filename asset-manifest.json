@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github.io/exrepo/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/github.io/exrepo/static/js/main.9584f717.chunk.js",
+    "main.js.map": "/github.io/exrepo/static/js/main.9584f717.chunk.js.map",
+    "runtime-main.js": "/github.io/exrepo/static/js/runtime-main.698fec65.js",
+    "runtime-main.js.map": "/github.io/exrepo/static/js/runtime-main.698fec65.js.map",
+    "static/js/2.e70fed8e.chunk.js": "/github.io/exrepo/static/js/2.e70fed8e.chunk.js",
+    "static/js/2.e70fed8e.chunk.js.map": "/github.io/exrepo/static/js/2.e70fed8e.chunk.js.map",
+    "static/js/3.473de09f.chunk.js": "/github.io/exrepo/static/js/3.473de09f.chunk.js",
+    "static/js/3.473de09f.chunk.js.map": "/github.io/exrepo/static/js/3.473de09f.chunk.js.map",
+    "index.html": "/github.io/exrepo/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/github.io/exrepo/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e70fed8e.chunk.js.LICENSE.txt": "/github.io/exrepo/static/js/2.e70fed8e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github.io/exrepo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.698fec65.js",
+    "static/js/2.e70fed8e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.9584f717.chunk.js"
+  ]
+}
